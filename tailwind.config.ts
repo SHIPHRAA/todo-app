@@ -6,7 +6,15 @@ const config: Config = {
     "./pages/**/*.{js,ts,jsx,tsx,mdx}",
     "./components/**/*.{js,ts,jsx,tsx,mdx}",
     "./app/**/*.{js,ts,jsx,tsx,mdx}",
-    "*.{js,ts,jsx,tsx,mdx}"
+    "*.{js,ts,jsx,tsx,mdx}",
+    "./src/**/*.{js,ts,jsx,tsx,mdx}",
+    "./node_modules/@shadcn/ui/dist/**/*.{js,ts,jsx,tsx,mdx}",
+    "./node_modules/@shadcn/ui/**/*.{js,ts,jsx,tsx,mdx}",
+    "./node_modules/@shadcn/ui/**/*.{js,ts,jsx,tsx}",
+    "./node_modules/@shadcn/ui/dist/**/*.{js,ts,jsx,tsx}",
+    "./node_modules/@shadcn/ui/dist/**/*.{js,ts,jsx,tsx,mdx}",
+    "./node_modules/@shadcn/ui/dist/**/*.{js,ts,jsx,tsx,mdx}",
+    "./node_modules/@shadcn/ui/dist/**/*.{js,ts,jsx,tsx,mdx}",
   ],
   theme: {
   	extend: {
