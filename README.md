@@ -14,7 +14,7 @@ git clone https://github.com/SHIPHRAA/todo-app.git
 cd todo-masterpiece
 ```
 
-## 🛠️ Development Guide
+## Development Guide
 
 1. **Install dependencies**<br/>
    Run the following command to install all required dependencies:
@@ -36,7 +36,7 @@ cd todo-masterpiece
    - Attach files by clicking or dragging them to the upload area
    - Switch to "View Todos" to see your tasks organized by status
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 src/
